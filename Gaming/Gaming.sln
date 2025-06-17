@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9BAB2E5A-B19F-608C-2997-14EE3C0F0077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualButtonsScripts", "VirtualButtonsScripts.csproj", "{B2A7F6D0-059F-3984-FCA5-CE91A682E9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{B4E0FE75-150C-D926-9F05-72D7E4BD3180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAB2E5A-B19F-608C-2997-14EE3C0F0077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAB2E5A-B19F-608C-2997-14EE3C0F0077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAB2E5A-B19F-608C-2997-14EE3C0F0077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAB2E5A-B19F-608C-2997-14EE3C0F0077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A7F6D0-059F-3984-FCA5-CE91A682E9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A7F6D0-059F-3984-FCA5-CE91A682E9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A7F6D0-059F-3984-FCA5-CE91A682E9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A7F6D0-059F-3984-FCA5-CE91A682E9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E0FE75-150C-D926-9F05-72D7E4BD3180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E0FE75-150C-D926-9F05-72D7E4BD3180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E0FE75-150C-D926-9F05-72D7E4BD3180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E0FE75-150C-D926-9F05-72D7E4BD3180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
